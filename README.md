@@ -1,6 +1,6 @@
 ### Hi, nice to meet you! Check out my projects below 🙂
 
-I'm a dual-degree student in engineering and business, currently studying at **UTC (Université de Technologie de Compiègne)** and **EDHEC Business School**, with a major in Finance.
+I'm a dual-degree student in engineering and business, currently studying at EDHEC Business School, with a major in Finance.
 I like building things that solve real problems rather than coding for its own sake, and I'm interested in the intersection of technology, data and business.
 
 ---
