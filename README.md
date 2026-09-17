@@ -1,28 +1,40 @@
-# Léonard Chemla
+### Hi, nice to meet you! Check out my projects below 🙂
 
-**Digital Engineering & Management — UTC × EDHEC Business School**
-**Finance Major | Computer Science | Data**
+I'm a dual-degree student in engineering and business, currently studying at **UTC (Université de Technologie de Compiègne)** and **EDHEC Business School**, with a major in Finance.
+I like building things that solve real problems rather than coding for its own sake, and I'm interested in the intersection of technology, data and business.
 
-I'm a student combining a technical background (Python, Java, SQL) with a finance and business education. I enjoy building things that solve real problems rather than coding for its own sake, and I'm currently looking for a 6-month internship (January–July 2027) in Data, AI, technology, strategy or finance.
+---
 
-## Featured Projects
+### What I'm interested in:
 
-**[ICMon — 2D Pokémon-Style Game](https://github.com/leonardchem/icmon-pokemon-game)**
-Java game built on a course-provided 2D engine at EPFL; I implemented the turn-based combat system.
-`Java` `Swing` `Maven`
+- Data and AI, and how they apply to real products
+- Software fundamentals: clean code, architecture, security
+- Finance, and how technology and data are changing it
+- International environments — exchange semesters at Shanghai University and EPFL
 
-**[Driving School Management](https://github.com/leonardchem/driving-school-management)**
-PHP/MySQL web app to manage a driving school's students, lessons and grading.
-`PHP` `MySQL`
+---
 
-## Technical Skills
+### 🛠️ Tools & Skills I use:
 
-**Programming:** Python | Java | SQL
-**Data:** NumPy
-**Web:** HTML | CSS
-**Other:** Git | Excel
+- **Python**, **Java**, **SQL**
+- **NumPy**
+- **HTML**, **CSS**
+- **Git**, Excel
 
-## Education
+---
 
-UTC (Université de Technologie de Compiègne) × EDHEC Business School
-Digital Engineering & Management — Finance Major
+### ✏️ Selected Projects:
+
+- 🎮 [**ICMon — 2D Pokémon-Style Game**](https://github.com/leonardchem/icmon-pokemon-game) — Java game built on a course-provided 2D engine at EPFL; I implemented the turn-based combat system.
+- 🚗 [**Driving School Management**](https://github.com/leonardchem/driving-school-management) — PHP/MySQL web app to manage students, lessons and grading. [Live preview →](https://leonardchem.github.io/driving-school-management/accueil.html)
+
+> More to come: I'm currently working on a Machine Learning project.
+
+---
+
+### 💼 Looking for:
+
+A **6-month internship** (starting January 2027), ideally in **Data, AI, technology, strategy or finance** — combining technical skills with my finance/business background.
+
+Feel free to connect or explore my work 👇
+[LinkedIn](https://www.linkedin.com/in/l%C3%A9onard-chemla/)
