@@ -1,16 +1,28 @@
-## Hi there 👋
+# Léonard Chemla
 
-<!--
-**leonardchem/leonardchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Engineering & Management — UTC × EDHEC Business School**
+**Finance Major | Computer Science | Data**
 
-Here are some ideas to get you started:
+I'm a student combining a technical background (Python, Java, SQL) with a finance and business education. I enjoy building things that solve real problems rather than coding for its own sake, and I'm currently looking for a 6-month internship (January–July 2027) in Data, AI, technology, strategy or finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+**[ICMon — 2D Pokémon-Style Game](https://github.com/leonardchem/icmon-pokemon-game)**
+Java game built on a course-provided 2D engine at EPFL; I implemented the turn-based combat system.
+`Java` `Swing` `Maven`
+
+**[Driving School Management](https://github.com/leonardchem/driving-school-management)**
+PHP/MySQL web app to manage a driving school's students, lessons and grading.
+`PHP` `MySQL`
+
+## Technical Skills
+
+**Programming:** Python | Java | SQL
+**Data:** NumPy
+**Web:** HTML | CSS
+**Other:** Git | Excel
+
+## Education
+
+UTC (Université de Technologie de Compiègne) × EDHEC Business School
+Digital Engineering & Management — Finance Major
