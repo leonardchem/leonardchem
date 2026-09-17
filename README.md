@@ -10,7 +10,7 @@ I like building things that solve real problems rather than coding for its own s
 - Data and AI, and how they apply to real products
 - Software fundamentals: clean code, architecture, security
 - Finance, and how technology and data are changing it
-- International environments — exchange semesters at Shanghai University and EPFL
+- International environments — exchange semester at Shanghai University 
 
 ---
 
